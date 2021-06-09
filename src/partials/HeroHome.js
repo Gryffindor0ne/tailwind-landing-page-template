@@ -130,7 +130,7 @@ function HeroHome() {
                       <stop stopColor="#EAEAEA" offset="48.57%" />
                       <stop stopColor="#DFDFDF" stopOpacity="0" offset="100%" />
                     </linearGradient>
-                    <radialGradient
+                    {/* <radialGradient
                       cx="21.152%"
                       cy="86.063%"
                       fx="21.152%"
@@ -141,7 +141,7 @@ function HeroHome() {
                       <stop stopColor="#4FD1C5" offset="0%" />
                       <stop stopColor="#81E6D9" offset="25.871%" />
                       <stop stopColor="#338CF5" offset="100%" />
-                    </radialGradient>
+                    </radialGradient> */}
                     <circle id="hero-ill-d" cx="384" cy="216" r="64" />
                   </defs>
                   <g fill="none" fillRule="evenodd">
@@ -161,7 +161,7 @@ function HeroHome() {
                     />
                     <g fillRule="nonzero">
                       <use fill="#000" xlinkHref="#hero-ill-d" />
-                      {/* <use fill="url(#hero-ill-e)" xlinkHref="#hero-ill-d" /> */}
+                      <use fill="url(#hero-ill-e)" xlinkHref="#hero-ill-d" />
                     </g>
                   </g>
                 </svg>
@@ -197,7 +197,7 @@ function HeroHome() {
               <div className="relative pb-9/16">
                 <iframe
                   className="absolute w-full h-full"
-                  src="https://youtu.be/CVW2xLmxGl0"
+                  src="https://www.youtube.com/embed/51ZmDONxn6k"
                   title="Video"
                   allowFullScreen
                 ></iframe>
