@@ -33,10 +33,12 @@ function Features() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h2 mb-4">What is Coding?</h1>
             <p className="text-xl text-gray-600">
-              Coding, sometimes called computer programming, is how we communicate with computers. 
-              Code tells a computer what actions to take, and writing code is like creating a set of instructions. 
-              By learning to write code, you can tell computers what to do or how to behave in a much faster way. 
-              You can use this skill to make websites and apps, process data, and do lots of other cool things.
+              Coding, sometimes called computer programming, is how we
+              communicate with computers. Code tells a computer what actions to
+              take, and writing code is like creating a set of instructions. By
+              learning to write code, you can tell computers what to do or how
+              to behave in a much faster way. You can use this skill to make
+              websites and apps, process data, and do lots of other cool things.
             </p>
           </div>
 
@@ -71,9 +73,7 @@ function Features() {
                     <div className="font-bold leading-snug tracking-tight mb-1">
                       Coding Funny Cartoon!
                     </div>
-                    <div className="text-gray-600">
-                     Enjoy your coding plz!
-                    </div>
+                    <div className="text-gray-600">Enjoy your coding plz!</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg
@@ -101,8 +101,7 @@ function Features() {
                     <div className="font-bold leading-snug tracking-tight mb-1">
                       Coding Funny Cartoon!
                     </div>
-                    <div className="text-gray-600">
-                     Enjoy your coding plz!
+                    <div className="text-gray-600">Enjoy your coding plz!</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg
@@ -133,9 +132,7 @@ function Features() {
                     <div className="font-bold leading-snug tracking-tight mb-1">
                       Coding Funny Cartoon!
                     </div>
-                    <div className="text-gray-600">
-                      Enjoy your coding plz!
-                    </div>
+                    <div className="text-gray-600">Enjoy your coding plz!</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg
