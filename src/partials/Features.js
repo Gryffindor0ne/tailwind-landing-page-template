@@ -196,7 +196,7 @@ function Features() {
                   <div className="relative inline-flex flex-col">
                     <img
                       className="md:max-w-none mx-auto rounded"
-                      src={require("../images/D9SJO0-VAAAoRVM.png").default}
+                      src={require("../images/D9SJO0-VAAAoRVM.jpeg").default}
                       width="500"
                       height="462"
                       alt="Features bg"
@@ -219,7 +219,7 @@ function Features() {
                   <div className="relative inline-flex flex-col">
                     <img
                       className="md:max-w-none mx-auto rounded"
-                      src={require("../images/D74StiMUEAA24xy.png").default}
+                      src={require("../images/D74StiMUEAA24xy.jpeg").default}
                       width="500"
                       height="462"
                       alt="Features bg"
