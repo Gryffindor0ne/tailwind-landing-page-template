@@ -48,7 +48,7 @@ function HeroHome() {
             >
               How To Become A Programmer{" "}
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-                Basic Tips
+                :: Basic Tips ::
               </span>
             </h1>
             <div className="max-w-3xl mx-auto">
@@ -57,7 +57,7 @@ function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                be patient!
+                <h2> be patient!</h2>
               </p>
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
@@ -161,7 +161,7 @@ function HeroHome() {
                     />
                     <g fillRule="nonzero">
                       <use fill="#000" xlinkHref="#hero-ill-d" />
-                      <use fill="url(#hero-ill-e)" xlinkHref="#hero-ill-d" />
+                      {/* <use fill="url(#hero-ill-e)" xlinkHref="#hero-ill-d" /> */}
                     </g>
                   </g>
                 </svg>
@@ -197,7 +197,7 @@ function HeroHome() {
               <div className="relative pb-9/16">
                 <iframe
                   className="absolute w-full h-full"
-                  src="https://www.youtube.com/watch?v=CVW2xLmxGl0"
+                  src="https://youtu.be/CVW2xLmxGl0"
                   title="Video"
                   allowFullScreen
                 ></iframe>
