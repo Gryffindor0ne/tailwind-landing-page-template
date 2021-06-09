@@ -46,7 +46,7 @@ function HeroHome() {
               className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4"
               data-aos="zoom-y-out"
             >
-              How To Become A Programmer{" "}
+              How To Become A Programmer <div></div>
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
                 :: Basic Tips ::
               </span>
@@ -57,7 +57,7 @@ function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                <h2> be patient!</h2>
+                Be patient!
               </p>
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
@@ -107,7 +107,7 @@ function HeroHome() {
                   xmlns="http://www.w3.org/2000/svg"
                   xmlnsXlink="http://www.w3.org/1999/xlink"
                 >
-                  <defs>
+                  {/* <defs>
                     <linearGradient
                       x1="50%"
                       y1="0%"
@@ -129,8 +129,8 @@ function HeroHome() {
                       <stop stopColor="#FFF" offset="0%" />
                       <stop stopColor="#EAEAEA" offset="48.57%" />
                       <stop stopColor="#DFDFDF" stopOpacity="0" offset="100%" />
-                    </linearGradient>
-                    {/* <radialGradient
+                    </linearGradient> */}
+                  {/* <radialGradient
                       cx="21.152%"
                       cy="86.063%"
                       fx="21.152%"
@@ -142,8 +142,8 @@ function HeroHome() {
                       <stop stopColor="#81E6D9" offset="25.871%" />
                       <stop stopColor="#338CF5" offset="100%" />
                     </radialGradient> */}
-                    {/* <circle id="hero-ill-d" cx="384" cy="216" r="64" /> */}
-                  </defs>
+                  {/* <circle id="hero-ill-d" cx="384" cy="216" r="64" /> */}
+                  {/* </defs> */}
                   <g fill="none" fillRule="evenodd">
                     <circle
                       fillOpacity=".04"
